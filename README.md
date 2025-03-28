@@ -25,7 +25,7 @@ A Windows Forms application for converting between different currencies using th
 1. **Clone the repository**
    ```
    git clone https://github.com/mars-rift/Currency-Conversion.git
-   cd currency-converter
+   cd Currency-Conversion
    ```
 
 2. **Set up API key**
